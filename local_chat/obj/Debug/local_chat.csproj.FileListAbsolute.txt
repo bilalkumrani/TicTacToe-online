@@ -1,0 +1,13 @@
+C:\Users\PeaceSeeker\source\repos\local_chat\bin\Debug\local_chat.exe.config
+C:\Users\PeaceSeeker\source\repos\local_chat\bin\Debug\local_chat.exe
+C:\Users\PeaceSeeker\source\repos\local_chat\bin\Debug\local_chat.pdb
+C:\Users\PeaceSeeker\source\repos\local_chat\bin\Debug\Guna.UI.dll
+C:\Users\PeaceSeeker\source\repos\local_chat\bin\Debug\Guna.UI2.dll
+C:\Users\PeaceSeeker\source\repos\local_chat\obj\Debug\local_chat.csprojAssemblyReference.cache
+C:\Users\PeaceSeeker\source\repos\local_chat\obj\Debug\local_chat.Form1.resources
+C:\Users\PeaceSeeker\source\repos\local_chat\obj\Debug\local_chat.Properties.Resources.resources
+C:\Users\PeaceSeeker\source\repos\local_chat\obj\Debug\local_chat.csproj.GenerateResource.cache
+C:\Users\PeaceSeeker\source\repos\local_chat\obj\Debug\local_chat.csproj.CoreCompileInputs.cache
+C:\Users\PeaceSeeker\source\repos\local_chat\obj\Debug\local_chat.csproj.CopyComplete
+C:\Users\PeaceSeeker\source\repos\local_chat\obj\Debug\local_chat.exe
+C:\Users\PeaceSeeker\source\repos\local_chat\obj\Debug\local_chat.pdb

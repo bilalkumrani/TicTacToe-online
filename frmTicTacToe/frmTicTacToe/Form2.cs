@@ -28,10 +28,10 @@ namespace frmTicTacToe
         private void button2_Click(object sender, EventArgs e)
         {
             frmTicTacToe newTictactoe = new frmTicTacToe(true);
-            Visible = false;
+            //Visible = false;
             if (!newTictactoe.IsDisposed)
                 newTictactoe.ShowDialog();
-            Visible = true;
+            //Visible = true;
         }
     }
 }

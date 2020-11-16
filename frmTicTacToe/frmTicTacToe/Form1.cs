@@ -30,6 +30,7 @@ namespace frmTicTacToe
                 server = new TcpListener(System.Net.IPAddress.Any, 5732);
                 server.Start();
                 sock = server.AcceptSocket();
+                Console.WriteLine("check");
             }
             else
             {
@@ -379,11 +380,16 @@ namespace frmTicTacToe
                 server.Stop();
             }
         }
+
+        private void frmTicTacToe_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 
     class ClassTicTacToe
     {
-        bool toogleValue = true;
+     //   bool toogleValue = true;
         String userOne = "O";
         String userTwo = "X";
         public void set_userOne(string value)

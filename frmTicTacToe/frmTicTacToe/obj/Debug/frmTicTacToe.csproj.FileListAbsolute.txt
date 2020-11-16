@@ -9,3 +9,14 @@ C:\Users\Bilal Khan\Downloads\visual-programming\lab4\frmTicTacToe\frmTicTacToe\
 C:\Users\Bilal Khan\Downloads\visual-programming\lab4\frmTicTacToe\frmTicTacToe\obj\Debug\frmTicTacToe.exe
 C:\Users\Bilal Khan\Downloads\visual-programming\lab4\frmTicTacToe\frmTicTacToe\obj\Debug\frmTicTacToe.pdb
 C:\Users\Bilal Khan\Downloads\visual-programming\lab4\frmTicTacToe\frmTicTacToe\obj\Debug\frmTicTacToe.Form2.resources
+C:\Users\PeaceSeeker\Documents\TicTacToe-online\frmTicTacToe\frmTicTacToe\bin\Debug\frmTicTacToe.exe.config
+C:\Users\PeaceSeeker\Documents\TicTacToe-online\frmTicTacToe\frmTicTacToe\bin\Debug\frmTicTacToe.exe
+C:\Users\PeaceSeeker\Documents\TicTacToe-online\frmTicTacToe\frmTicTacToe\bin\Debug\frmTicTacToe.pdb
+C:\Users\PeaceSeeker\Documents\TicTacToe-online\frmTicTacToe\frmTicTacToe\obj\Debug\frmTicTacToe.csprojAssemblyReference.cache
+C:\Users\PeaceSeeker\Documents\TicTacToe-online\frmTicTacToe\frmTicTacToe\obj\Debug\frmTicTacToe.frmTicTacToe.resources
+C:\Users\PeaceSeeker\Documents\TicTacToe-online\frmTicTacToe\frmTicTacToe\obj\Debug\frmTicTacToe.Form2.resources
+C:\Users\PeaceSeeker\Documents\TicTacToe-online\frmTicTacToe\frmTicTacToe\obj\Debug\frmTicTacToe.Properties.Resources.resources
+C:\Users\PeaceSeeker\Documents\TicTacToe-online\frmTicTacToe\frmTicTacToe\obj\Debug\frmTicTacToe.csproj.GenerateResource.cache
+C:\Users\PeaceSeeker\Documents\TicTacToe-online\frmTicTacToe\frmTicTacToe\obj\Debug\frmTicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\PeaceSeeker\Documents\TicTacToe-online\frmTicTacToe\frmTicTacToe\obj\Debug\frmTicTacToe.exe
+C:\Users\PeaceSeeker\Documents\TicTacToe-online\frmTicTacToe\frmTicTacToe\obj\Debug\frmTicTacToe.pdb

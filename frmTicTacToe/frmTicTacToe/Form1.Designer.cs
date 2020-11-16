@@ -161,6 +161,7 @@
             this.Name = "frmTicTacToe";
             this.Text = "Tic Tac Toe";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.frmTicTacToe_FormClosing);
+            this.Load += new System.EventHandler(this.frmTicTacToe_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
