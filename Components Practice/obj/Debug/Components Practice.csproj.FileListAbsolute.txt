@@ -1,0 +1,13 @@
+C:\Users\PeaceSeeker\source\repos\Components Practice\bin\Debug\Components Practice.exe.config
+C:\Users\PeaceSeeker\source\repos\Components Practice\bin\Debug\Components Practice.exe
+C:\Users\PeaceSeeker\source\repos\Components Practice\bin\Debug\Components Practice.pdb
+C:\Users\PeaceSeeker\source\repos\Components Practice\bin\Debug\Guna.UI2.dll
+C:\Users\PeaceSeeker\source\repos\Components Practice\obj\Debug\Components_Practice.Form1.resources
+C:\Users\PeaceSeeker\source\repos\Components Practice\obj\Debug\Components_Practice.Properties.Resources.resources
+C:\Users\PeaceSeeker\source\repos\Components Practice\obj\Debug\Components Practice.csproj.GenerateResource.cache
+C:\Users\PeaceSeeker\source\repos\Components Practice\obj\Debug\Components Practice.csproj.CoreCompileInputs.cache
+C:\Users\PeaceSeeker\source\repos\Components Practice\obj\Debug\Components Practice.csproj.CopyComplete
+C:\Users\PeaceSeeker\source\repos\Components Practice\obj\Debug\Components Practice.exe
+C:\Users\PeaceSeeker\source\repos\Components Practice\obj\Debug\Components Practice.pdb
+C:\Users\PeaceSeeker\source\repos\Components Practice\bin\Debug\Guna.UI.dll
+C:\Users\PeaceSeeker\source\repos\Components Practice\obj\Debug\Components Practice.csprojAssemblyReference.cache
